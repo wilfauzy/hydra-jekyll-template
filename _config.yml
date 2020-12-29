@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Will App
+url: "https:/app.wildanfauzy.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Admin
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/wildanfauzy/hydra-jekyll-template
 
 # -----
 # Build
